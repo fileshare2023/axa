@@ -1,0 +1,59 @@
+Q: Who is the highest-paid employee?
+A: Sonia Mittal, the Medical Doctor from Kolkata, is the highest-paid employee with a salary of 1,500,000.
+
+Q: How many employees have more than 5 years of experience?
+A: There are 13 employees with more than 5 years of experience.
+
+Q: What is the salary of the Marketing Manager from Mumbai?
+A: The Marketing Manager from Mumbai, Priya Sharma, has a salary of 1,200,000.
+
+Q: Which city has the highest number of employees listed in the table?
+A: Chennai has the highest number of employees, with a total of 8.
+
+Q: Who is the Software Architect and what is their salary?
+A: The Software Architect is Arjun Mehra, and his salary is 1,400,000.
+
+Q: Which employee has the least years of experience and what is their designation?
+A: Rohan Mehra, the Civil Engineer Intern from Ahmedabad, has the least years of experience with 0.5 years.
+
+Q: How many employees are located in Bangalore?
+A: There are 4 employees located in Bangalore.
+
+Q: Who is the Financial Analyst and where are they based?
+A: The Financial Analyst is Isha Singh, and she is based in Jaipur.
+
+Q: What is the total salary of all employees located in Pune?
+A: The total salary of all employees located in Pune is 4,210,000.
+
+Q: Who is the employee with the longest tenure and what is their role?
+A: Sonia Mittal, the Medical Doctor from Kolkata, has the longest tenure with 12 years of experience.
+
+Q: What is the salary difference between the Project Manager and the Software Developer Lead in Ahmedabad?
+A: The salary difference between the Project Manager (1,100,000) and the Software Developer Lead (1,350,000) in Ahmedabad is 250,000.
+
+Q: Who are the two employees named Riya Chopra and what are their roles?
+A: Riya Chopra is a Civil Engineer from Delhi and a Biotechnologist from Delhi.
+
+Q: What is the average salary of employees in Mumbai?
+A: The average salary of employees in Mumbai is 1,002,000.
+
+Q: Which employee works as a User Experience Designer and what is their salary?
+A: Deepika Verma works as a User Experience Designer and her salary is 750,000.
+
+Q: Who is the Quality Assurance Analyst and where are they located?
+A: Neha Joshi is the Quality Assurance Analyst and she is located in Pune.
+
+Q: How many employees are listed as working in Hyderabad?
+A: There are 5 employees listed as working in Hyderabad.
+
+Q: What is the designation of Kiara Kapoor and her salary?
+A: Kiara Kapoor is a Marketing Associate and her salary is 620,000.
+
+Q: Which employee has a salary of 580,000 and what is their designation?
+A: Saira Khan, the Quality Control Inspector from Delhi, has a salary of 580,000.
+
+Q: Who is the Sales Representative and what is their location?
+A: Vikram Bajaj is the Sales Representative located in Bengaluru.
+
+Q: What is the combined salary of the two employees named Yash Birla?
+A: The combined salary of the two employees named Yash Birla is 2,330,000.
