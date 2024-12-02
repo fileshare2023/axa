@@ -1,0 +1,1 @@
+Text file 1: Machine learning is a branch of artificial intelligence. It focuses on building algorithms that can learn from data and make predictions or decisions without explicit programming.
