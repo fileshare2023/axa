@@ -1,0 +1,6 @@
+global:
+  scrape_interval: 15s  # Set the scrape interval to your preference
+scrape_configs:
+  - job_name: 'gradio'
+    static_configs:
+      - targets: ['localhost:8000']  # Adjust if your app is running on a different port or machine
